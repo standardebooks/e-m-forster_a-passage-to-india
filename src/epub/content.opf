@@ -45,6 +45,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">25</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">48</meta>
 		<dc:description id="description">A suspected assault brings racial tensions to a boil in British Raj India.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The setting of &lt;i&gt;A Passage to India&lt;/i&gt; is the British Raj, at a time of racial tension heightened by the burgeoning Indian independence movement. Adela Quested, a young British subject, is visiting India to decide whether to marry a suitor who works there as a city magistrate. During her visit, a local physician, Aziz, is accused of assaulting her. His trial brings tensions between the British rulers and their Indian subjects to a head.&lt;/p&gt;
