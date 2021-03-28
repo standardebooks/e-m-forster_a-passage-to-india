@@ -73,7 +73,7 @@
 		<dc:contributor id="artist">Edwin Lord Weeks</dc:contributor>
 		<meta property="file-as" refines="#artist">Weeks, Edwin Lord</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edwin_Lord_Weeks</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n86835275</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86835275</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
