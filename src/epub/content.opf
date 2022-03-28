@@ -50,7 +50,7 @@
 		<meta id="collection-3" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">50</meta>
-		<meta id="collection-4" property="belongs-to-collection">James Tait Black Memorial Prize for Fiction</meta>
+		<meta id="collection-4" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-4">series</meta>
 		<meta property="group-position" refines="#collection-4">6</meta>
 		<dc:description id="description">A suspected assault brings racial tensions to a boil in British Raj India.</dc:description>
