@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/61221</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/101864201</dc:source>
 		<meta property="se:word-count">102416</meta>
-		<meta property="se:reading-ease.flesch">73.78</meta>
+		<meta property="se:reading-ease.flesch">73.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Passage_to_India</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-m-forster_a-passage-to-india</meta>
 		<dc:creator id="author">E. M. Forster</dc:creator>
