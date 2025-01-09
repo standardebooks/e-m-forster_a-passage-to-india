@@ -53,6 +53,9 @@
 		<meta id="collection-4" property="belongs-to-collection">James Tait Black Memorial Fiction Prize Winners</meta>
 		<meta property="collection-type" refines="#collection-4">series</meta>
 		<meta property="group-position" refines="#collection-4">6</meta>
+		<meta id="collection-5" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
+		<meta property="collection-type" refines="#collection-5">series</meta>
+		<meta property="group-position" refines="#collection-5">6</meta>
 		<dc:description id="description">A suspected assault brings racial tensions to a boil in British Raj India.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The setting of &lt;i&gt;A Passage to India&lt;/i&gt; is the British Raj, at a time of racial tension heightened by the burgeoning Indian independence movement. Adela Quested, a young British subject, is visiting India to decide whether to marry a suitor who works there as a city magistrate. During her visit, a local physician, Aziz, is accused of assaulting her. His trial brings tensions between the British rulers and their Indian subjects to a head.&lt;/p&gt;
